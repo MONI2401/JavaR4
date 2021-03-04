@@ -1,0 +1,5 @@
+This is an example
+to prove
+merging and branching
+this file is created under feature branch.
+Thank You
